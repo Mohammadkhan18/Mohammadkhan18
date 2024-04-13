@@ -12,9 +12,6 @@
 | `Technologies Used`  | ![NodeJS](https://img.shields.io/badge/-Node-orange?color=8BBF3F&style=for-the-badge&logo=NODE&logoColor=white&logoWidth=20) ![NPM](https://img.shields.io/badge/-NPM-brightgreen?color=DC2C34&style=for-the-badge&logo=NPM&logoColor=white&logoWidth=20) ![Express](https://img.shields.io/badge/-Express-orange?color=8BBF3F&style=for-the-badge&logo=Express&logoColor=white&logoWidth=20) |
 | `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-AA42F1.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/-canva-white?style=for-the-badge&logo=canva&logoColor=white&logoWidth=20&color=01C4CD)|
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammadkhan18&theme=slateorange&hide_border=false)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
