@@ -3,7 +3,8 @@
 
 # 💫 About Me:
 🌱 I am a Full Stack Web Developer/Open Source Contributor<br>📫 How to reach me mohammadkhan6543210@gmail.com
-
+# 📊 GitHub Stats:-
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammadkhan18&theme=aura&hide_border=false)<br/>
 # 💻 Tech Stack:
 |               |           |
 |       ---     |    ---    |
