@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad khan</h1>
-<h3 align="center">A passionate student/developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 # 💫 About Me:
-🌱 I am a Full Stack Web Developer/Open Source Contributor<br>📫 How to reach me mohammadkhan6543210@gmail.com
-# 📊 GitHub Stats:-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammadkhan18&theme=aura&hide_border=false)<br/>
+🌱 I am a Full Stack Developer/Open Source Contributor/Freelancer<br>📫 How to reach me mohammadkhan6543210@gmail.com
 # 💻 Tech Stack:
 |               |           |
 |       ---     |    ---    |
@@ -17,7 +15,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mohammadkhan18&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mohammadkhan18&icon=0&color=1)](https://visitcount.itsvg.in)
 <h3 align="left">Connect with me::</h3>
 <p align="left">
 <a href="https://twitter.com/Mohammadkhan_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adnan9381" height="30" width="40" /></a>
