@@ -15,7 +15,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mohammadkhan18&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mohammadkhan18&icon=0&color=9)](https://visitcount.itsvg.in)
 <h3 align="left">Connect with me::</h3>
 <p align="left">
 <a href="https://twitter.com/Mohammadkhan_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adnan9381" height="30" width="40" /></a>
