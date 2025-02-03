@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Mohammad Khan<br><br>🚀 A passionate Fullstack Developer currently working at Baisware Technology as a Junior Fullstack Developer.<br><br>💼 Previously, I have worked on several freelance projects and internships, building scalable web applications and enhancing user experiences across various domains. I enjoy tackling complex problems, optimizing performance, and contributing to meaningful projects.<br><br>🔎 Always exploring new technologies and best practices to stay ahead in the ever-evolving world of development!
+<h1>👋 Hey there! I'm Mohammad Khan</h1><br><br>🚀 <p>A passionate Fullstack Developer currently working at Baisware Technology as a Junior Fullstack Developer.</p><br><br>💼 <p><p>Previously, I have worked on several freelance projects and internships, building scalable web applications and enhancing user experiences across various domains. I enjoy tackling complex problems, optimizing performance, and contributing to meaningful projects.</p><br><br>🔎 <p>Always exploring new technologies and best practices to stay ahead in the ever-evolving world of development!</p>
 
 
 ## 🌐 Socials:
